@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #FF9000;
+  color: #6d8e3c;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #FF9000;
+  color: #457639;
   outline: none;
   text-decoration: none;
 }
@@ -1255,7 +1255,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #FF9000;
+  border-color: #9e9282;
 }
 
 .row-pb-md {
